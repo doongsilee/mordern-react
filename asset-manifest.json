@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mordern-react/static/css/main.a6e19377.css",
+    "main.js": "/mordern-react/static/js/main.a3d3848e.js",
+    "static/media/costa-rica.jpg": "/mordern-react/static/media/costa-rica.df8bfad7ebe938f55739.jpg",
+    "index.html": "/mordern-react/index.html",
+    "main.a6e19377.css.map": "/mordern-react/static/css/main.a6e19377.css.map",
+    "main.a3d3848e.js.map": "/mordern-react/static/js/main.a3d3848e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6e19377.css",
+    "static/js/main.a3d3848e.js"
+  ]
+}
